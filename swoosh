@@ -1,0 +1,2 @@
+#!/bin/bash
+php swoosh-cli.php $@
